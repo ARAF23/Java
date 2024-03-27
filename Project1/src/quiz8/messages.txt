@@ -1,0 +1,5 @@
+Enter your first and your last name, please:
+Guess what number from 1 and 20 was chosen:
+You guessed correctly!
+, you are indeed a genious!
+, sadly you didn't turn out the way your mother had hoped.
